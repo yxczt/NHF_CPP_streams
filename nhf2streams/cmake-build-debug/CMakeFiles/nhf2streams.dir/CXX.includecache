@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/elozsombor/CLionProjects/nhf2streams/era.cpp
+era.h
+/cygdrive/c/Users/elozsombor/CLionProjects/nhf2streams/era.h
+
+/cygdrive/c/Users/elozsombor/CLionProjects/nhf2streams/era.h
+stream.h
+/cygdrive/c/Users/elozsombor/CLionProjects/nhf2streams/stream.h
+
+/cygdrive/c/Users/elozsombor/CLionProjects/nhf2streams/linkedlist.h
+memory
+-
+
+/cygdrive/c/Users/elozsombor/CLionProjects/nhf2streams/main.cpp
+iostream
+-
+stream.h
+/cygdrive/c/Users/elozsombor/CLionProjects/nhf2streams/stream.h
+era.h
+/cygdrive/c/Users/elozsombor/CLionProjects/nhf2streams/era.h
+linkedlist.h
+/cygdrive/c/Users/elozsombor/CLionProjects/nhf2streams/linkedlist.h
+
+/cygdrive/c/Users/elozsombor/CLionProjects/nhf2streams/stream.cpp
+stream.h
+/cygdrive/c/Users/elozsombor/CLionProjects/nhf2streams/stream.h
+
+/cygdrive/c/Users/elozsombor/CLionProjects/nhf2streams/stream.h
+memory
+-
+functional
+-
+iostream
+-
+

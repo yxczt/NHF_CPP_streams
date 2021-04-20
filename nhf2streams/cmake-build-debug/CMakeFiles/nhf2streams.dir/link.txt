@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/nhf2streams.dir/main.cpp.o CMakeFiles/nhf2streams.dir/stream.cpp.o CMakeFiles/nhf2streams.dir/era.cpp.o  -o nhf2streams.exe -Wl,--out-implib,libnhf2streams.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
